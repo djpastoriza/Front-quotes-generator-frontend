@@ -1,1 +1,1 @@
-export const API_URL = 'http://front-quotes-generator-backend-production.up.railway.app/api';
+export const API_URL = 'https://front-quotes-generator-backend-production.up.railway.app/api';
