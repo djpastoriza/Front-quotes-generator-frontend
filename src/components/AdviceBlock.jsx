@@ -44,7 +44,7 @@ const AdviceBlock = () => {
 					</button>
 				</div>
 			) : (
-				<div>Cargando...</div>
+				<div className="text-white">Cargando...</div>
 			)}
 		</>
 	);
